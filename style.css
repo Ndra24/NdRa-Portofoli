@@ -1,0 +1,54 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.Nama {
+    text-align: Center;
+    font-family: Courier;
+}
+
+.About {
+    background-color: red;
+}
+
+#nama {
+    color: black;
+    padding: 1px;
+    margin: 1px;
+
+}
+
+#nama2 {
+    color: White;
+    background-color: grey;
+    padding: 1px;
+    margin: 1px;
+}
+
+.table,th,td {
+    border: 1px solid black;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    font-family: Times New Roman;
+}
+
+.logo {
+    background-color: grey;
+    text-align-last: center;
+    color:white;
+    text-size:30px;
+}
+
+.wa-footer {
+    background-color: red;
+    text-align: center;
+    color:white;
+}
+
+.footer {
+    margin: 10px;
+    padding: 10px;
+}
